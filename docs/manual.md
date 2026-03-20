@@ -181,7 +181,7 @@ echo++ --red "lorem ipsum"
 </ul>
 
 <pre><code class="language-bash" style="color: red">
-lorem ipsum
+🔴 lorem ipsum
 </code></pre>
 
 
@@ -217,7 +217,7 @@ echo++ --green "lorem ipsum"
 </ul>
 
 <pre><code class="language-bash" style="color: green">
-lorem ipsum
+🟢 lorem ipsum
 </code></pre>
 
 <h3>
@@ -252,7 +252,7 @@ echo++ --yellow "lorem ipsum"
 </ul>
 
 <pre><code class="language-bash" style="color: yellow">
-lorem ipsum
+🟡 lorem ipsum
 </code></pre>
 
 <h3>
