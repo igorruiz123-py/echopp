@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <i>The idea of <strong>echo++</strong> is to extend its usage, by adding new features with <strong>flags.</strong> A flag, on this context, is a paramerater that is passed with the command and modifies the string according with the flag that is being used.</i>
+    <i>The idea of <strong>echo++</strong> is to extend its usage, by adding new features with <strong>flags.</strong> A flag, on this context, is a paramerater that is passed with the command and it modifies the string according with the flag that is being used.</i>
 </p>
 
 <p>
