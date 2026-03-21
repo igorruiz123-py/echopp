@@ -14,13 +14,13 @@ echo++ --flag [string]
 <h2>Flags Available:</h2>
 
 <ul>
-    <li>--upper</li>
-    <li>--lower</li>
-    <li>--reverse</li>
-    <li>--red</li>
-    <li>--green</li>
-    <li>--yellow</li>
-    <li>--len</li>
+    <li><strong>--upper</li></strong>
+    <li><strong>--lower</li></strong>
+    <li><strong>--reverse</li></strong>
+    <li><strong>--red</li></strong>
+    <li><strong>--green</li></strong>
+    <li><strong>--yellow</li></strong>
+    <li><strong>--len</li></strong>
 </ul>
 
 <h2>--help Command:</h2>
