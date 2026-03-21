@@ -54,7 +54,7 @@ echo++ --version
 </h3>
 
 <p>
-    <i>The <strong>--upper</strong> flag turns the string case from lower to upper. If the string is aleary on upper case, a warning message will be displayed saying that the string is already on upper case.</i>
+    <i>The <strong>--upper</strong> flag turns the string case from lower to upper.</i>
 </p>
 
 <ul>
@@ -87,7 +87,7 @@ LOREM IPSUM
 </h3>
 
 <p>
-    <i>The <strong>--lower</strong> flag turns the string case from upper to lower. If the string is aleary on lower case, a warning message will be displayed saying that the string is already on lower case.</i>
+    <i>The <strong>--lower</strong> flag turns the string case from upper to lower.</i>
 </p>
 
 <ul>
