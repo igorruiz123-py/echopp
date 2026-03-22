@@ -47,22 +47,11 @@
     </i>
 </h2>
 
-<ol type="1">
-    <li>git clone</li>
-    <p></p>
-    <ul>
-        <li>SSH</li>
-    </ul>
-    <pre><code class="language-bash">git@github.com:igorruiz123-py/echopp.git</code></pre>
-    <ul>
-        <li>HTTPS</li>
-    </ul>
-    <pre><code class="language-bash">https://github.com/igorruiz123-py/echopp.git</code></pre>
-    <li>zip folder</li>
-    <p></p>
-    <p>On the echo++ project home page on github go to:</p>
-    <pre><code class="language-bash">Code -> Download ZIP</code></pre>
-</ol>
+<p>
+    <i>
+        <strong>echo++</strong> is supported with <strong>releases</strong>. Click <a href="https://github.com/igorruiz123-py/echopp/releases">here</a> to do the download of the current version of the software.
+    </i>
+</p>
 
 <h2 align="center">
     <i>
